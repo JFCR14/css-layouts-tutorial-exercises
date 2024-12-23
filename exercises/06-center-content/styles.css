@@ -2,7 +2,7 @@ body {
 	background: blue;
 }
 
-#myDiv {
+.myDiv {
 	width: 400px;
 	background: gray;
 	display: flex;
